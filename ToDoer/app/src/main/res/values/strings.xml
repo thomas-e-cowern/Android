@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToDoer</string>
+    <string name="action_delete_all">Delete All</string>
+    <string name="SHARED_PREF_NAME">com.example.todoer.sharedPrefs</string>
+    <string name="TODO_STRINGS">todostrings</string>
+</resources>

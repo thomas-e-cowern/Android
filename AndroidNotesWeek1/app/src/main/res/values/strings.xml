@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidNotesWeek1</string>
+    <string name="title_activity_content_main">content_main</string>
+    <string name="save_botton_title">Save</string>
+    <string name="enter_note_hint">Enter note here...</string>
+    <string name="addButton_content_description">Add Note</string>
+    <string name="notes_textview_text">Notes</string>
+    <string name="shared_prefs_name">com.example.androidnotesweek1.sharedPrefs</string>
+    <string name="notes_strings">notestring</string>
+</resources>
