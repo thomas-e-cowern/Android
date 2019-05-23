@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="name">Tom Cowern</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Tom.  This is where my bio would go. /n
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+        \n\n This is another line
+        \n\nI This is another paragraph
+
+    </string>
+    <string name="nickname_hint">What is your nickname?</string>
+    <string name="done_button_text">Done</string>
 </resources>
