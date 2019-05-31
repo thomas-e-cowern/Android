@@ -20,6 +20,7 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-kapt'
 apply plugin: 'kotlin-android-extensions'
+apply plugin: 'androidx.navigation.safeargs'
 
 android {
     compileSdkVersion 28
@@ -55,6 +56,10 @@ dependencies {
 
     // Core
     implementation "androidx.core:core:$version_core"
+
+
+    // Adding the safe-args dependency to the project Gradle file
+    classpath "android.arch.navigation:safe-args-gradle-plugin:1.0.0-alpha01"
 
     // Material Design
     implementation "com.google.android.material:material:$version_material"
